@@ -1,1 +1,1 @@
-This folder is about permission commands
+switching current user to betty
